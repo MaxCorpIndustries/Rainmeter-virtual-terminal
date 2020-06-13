@@ -1,11 +1,13 @@
 # Rainmeter-virtual-terminal
 This rep contains backup data for a rainmeter skin which attempts to create a virtual dumb terminal on the users desktop.  Preview video: https://www.youtube.com/watch?v=55cwUmN12BI
 
-#Download: 
+# Download:
 https://www.deviantart.com/maxcorpindustries/art/Vintage-Terminal-1-0-for-rainmeter-831562992
 
 © 2020 MaxCorpIndustries
 This skin runs using these plugins:
+
+# Required Plugins:
 
 Hotkey : 
 https://www.deviantart.com/users/outgoing?https://forum.rainmeter.net/download/file.php?id=11590&sid=a8d0063f3006699169143aa9fc7b6c73
