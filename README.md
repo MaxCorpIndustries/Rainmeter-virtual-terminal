@@ -4,8 +4,7 @@ This rep contains backup data for a rainmeter skin which attempts to create a vi
 # Download:
 https://www.deviantart.com/maxcorpindustries/art/Vintage-Terminal-1-0-for-rainmeter-831562992
 
-© 2020 MaxCorpIndustries
-This skin runs using these plugins:
+
 
 # Required Plugins:
 
