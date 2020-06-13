@@ -1,5 +1,5 @@
-https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f254f68e-7f3f-4cab-a8f6-5ed0d3d5e436/ddr3a40-6a9b5f3f-9078-4869-9be5-30f0dbab5004.png
 
+![alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f254f68e-7f3f-4cab-a8f6-5ed0d3d5e436/ddr3a40-6a9b5f3f-9078-4869-9be5-30f0dbab5004.png)
 
 # Rainmeter-virtual-terminal
 This rep contains backup data for a rainmeter skin which attempts to create a virtual dumb terminal on the users desktop.  Preview video: https://www.youtube.com/watch?v=55cwUmN12BI
